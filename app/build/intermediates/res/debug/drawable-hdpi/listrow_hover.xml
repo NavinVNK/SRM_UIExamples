@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+  <gradient
+      android:startColor="#faf72e"
+      android:centerColor="#bdf743"
+      android:endColor="#44f760"
+      android:angle="270" />
+</shape><!-- From: file:/C:/Users/Ganeshan/AndroidStudioProjects/SRM_UIExamples/app/src/main/res/drawable-hdpi/listrow_hover.xml -->
